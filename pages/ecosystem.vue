@@ -12,7 +12,7 @@
             <div class="flex align-center">
               <h3 style="font-size: 70px">Get</h3>
               <h3 style="font-size: 70px" class="margin-left-xs coloBls">
-                involvedss
+                involved
               </h3>
             </div>
             <h3 style="font-size: 70px">And Be Part Of</h3>
